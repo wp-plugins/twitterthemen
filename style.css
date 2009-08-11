@@ -1,0 +1,12 @@
+
+ul.twitterthemen{ !important;}
+
+li.twitterthemen-item{ !important;}
+
+a.twitterthemen-link{ color:#BC4D10 !important;}
+
+.twitterthemen-desc{font-size:90%}
+
+.twitterthemen-desc a{font-size:100%;color:#BC4D10 !important}
+
+.twitterthemen-desc a:hover{text-decoration: underline !important}
