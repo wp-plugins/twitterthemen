@@ -1,7 +1,7 @@
-=== EG-Archives ===
-Contributors: Emmanuel GEORJON
-Tags: twitter, widget
-Requires at least: unknown
+=== Twitterthemen ===
+Contributors: Thomas Pfeiffer
+Tags: twitter, widget, twitterthemen
+Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: 0.1
 
