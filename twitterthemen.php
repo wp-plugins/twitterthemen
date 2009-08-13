@@ -28,11 +28,11 @@ define('MAGPIE_INPUT_ENCODING', 'UTF-8');
 define('MAGPIE_OUTPUT_ENCODING', 'UTF-8');
 
 $twitterthemen_options['widget_fields']['title'] = array('label'=>'Titel:', 'type'=>'text', 'default'=>'');
+$twitterthemen_options['widget_fields']['subtitle'] = array('label'=>'Untertitel', 'type'=>'text', 'default'=>'Aktuelle Themen (#Hashtags) aus der deutschsprachigen Twittersph&auml;re');
 $twitterthemen_options['widget_fields']['num'] = array('label'=>'Anzahl der Hashtags:', 'type'=>'text', 'default'=>'5');
 $twitterthemen_options['widget_fields']['encode_utf8'] = array('label'=>'UTF8 Encode:', 'type'=>'checkbox', 'default'=>false);
 $twitterthemen_options['widget_fields']['target_blank'] = array('label'=>'Target=_blank:', 'type'=>'checkbox', 'default'=>false);
 $twitterthemen_options['widget_fields']['mitdesc'] = array('label'=>'Zeige Beschreibung', 'type'=>'checkbox', 'default'=>false);
-$twitterthemen_options['widget_fields']['subtitle'] = array('label'=>'Untertitel', 'type'=>'text', 'default'=>'Aktuelle Themen (#Hashtags) aus der deutschsprachigen Twittersph&auml;re');
 $twitterthemen_options['widget_fields']['leere'] = array('label'=>'Zeige auch leere Beschreibungen', 'type'=>'checkbox', 'default'=>false);
 $twitterthemen_options['widget_fields']['nurhashtags'] = array('label'=>'Zeige nur Hahstags an', 'type'=>'checkbox', 'default'=>false);
 
