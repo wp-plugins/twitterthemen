@@ -57,6 +57,9 @@ http://wordpress.org/extend/plugins/one-click-plugin-updater/
 == Screenshots ==
 You can see the plugin working in the right sidebar on http://webevangelisten.de 
 
+1. There are a couple of customizations
+2. The frontend of the plugin in a sidebar
+
 
 
 
