@@ -13,7 +13,7 @@ The plugin provides a sidebar widget, that displays the
 latest trending topics of the **german-speaking** twitterspehre.
 
 It is highly customizable. You can choose, whether to 
-display #hshtags only or all topics. For hashtags, there are 
+display #hashtags only or all topics. For hashtags, there are 
 explanations, so that visitors can understand, what e.g. #tcot means. 
 The explanations for hashtags come from the 
 twitter-account "@definiere", where everybody can explain a hashtag.
