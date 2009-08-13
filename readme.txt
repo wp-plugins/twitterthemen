@@ -8,7 +8,13 @@ Stable tag: 0.1
 Zeigt aktuelle Twitterthemen an.
 
 == Description ==
-coming soon.
+The plugin provides a sidebar widget, that displays the lates trending topics of the 
+**german-speaking** twitterspehre.
+
+It is highly customizable. You can choose, wether to display #hshtags only or **all** topics.
+For hashtags, there are explanations, so that visitors can understand, what e.g. #tcot means.
+The explanations for hashtags come from the twitter-account "@definiere", where everybody can
+explain a hashtag.  
 
 == Installation ==
 
@@ -18,31 +24,21 @@ coming soon.
 4. Activate Twitterthemen through the 'Plugins' menu in WordPress,
 5. The plugin is ready to be used.
 
+Hint: 
+Alternativley you can use the "One Click Plugin Updater"
+http://wordpress.org/extend/plugins/one-click-plugin-updater/
+
+
 == Usage ==
 
-**Twitterthemen** adds a widget.
-
-= Widget =
-
 * Go to the **Appearence / Widgets** menu, 
-* Active the widget named: twitterthemen
+* Active the widget named: twitterthemen by dragging and dropping it on the sidebar-section
 * Configure it, through the widget menu.
 
 
 == Screenshots ==
+You can see the plugin working in the right sidebar on http://webevangelisten.de 
 
-None.
 
-== Frequently Asked Questions == 
-
-None.
-
-== Changelog ==
-
-None.
-
-== Licence ==
-
-This plugin is released under the GPL, you can use it free of charge on your personal or commercial blog.
 
 
