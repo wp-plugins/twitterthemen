@@ -20,14 +20,14 @@ twitter-account "@definiere", where everybody can explain a hashtag.
 
 
 **Deutsch**
-Das Plugin stellt ein Widget für die Sidebar bereit, womit die aktuellen Twitterthemen aus der 
-deutschsprachigen Twitterspäre im Stile der Trending Topics auf Twitter.com angezeigt werden. 
+Das Plugin stellt ein Widget f&uuml;r die Sidebar bereit, womit die aktuellen Twitterthemen aus der 
+deutschsprachigen Twittersp&auml;re im Stile der Trending Topics auf Twitter.com angezeigt werden. 
 
-Sie können in den Einstellungen wählen, ob Sie nur #Hashtags (rss-Feed) aus der deutschsprachigen Twitterspähre anzeigen lassen wollen, oder alle relevanten Themen (rss-Feed).
+Sie k&ouml;nnen in den Einstellungen w&auml;hlen, ob Sie nur #Hashtags (rss-Feed) aus der deutschsprachigen Twittersp&auml;hre anzeigen lassen wollen, oder alle relevanten Themen (rss-Feed).
 
-Zudem haben Sie die Möglichkeit, Beschreibungen zu einzelnen Hashtags anzeigen zu lassen. 
-Die Beschreibungen stammen aus den öffentlichen @replies der Community an 
-@definiere #Hashtag Ihre_Beschreibung. Eine Übersicht über alle Beschreibungen 
+Zudem haben Sie die M&ouml;glichkeit, Beschreibungen zu einzelnen Hashtags anzeigen zu lassen. 
+Die Beschreibungen stammen aus den &ouml;ffentlichen @replies der Community an 
+@definiere #Hashtag Ihre_Beschreibung. Eine Übersicht &uuml;ber alle Beschreibungen 
 gibt es hier unter
 http://webevangelisten.de/hashtags
 
