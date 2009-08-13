@@ -30,7 +30,7 @@ Sie k&ouml;nnen in den Einstellungen w&auml;hlen, ob Sie nur #Hashtags (rss-Feed
 
 Zudem haben Sie die M&ouml;glichkeit, Beschreibungen zu einzelnen Hashtags anzeigen zu lassen. 
 Die Beschreibungen stammen aus den &ouml;ffentlichen @replies der Community an 
-@definiere (http://twitter.com/definiere) #Hashtag Ihre_Beschreibung. Eine Übersicht &uuml;ber alle Beschreibungen 
+@definiere (http://twitter.com/definiere) #Hashtag Ihre_Beschreibung. Eine &Uuml;bersicht &uuml;ber alle Beschreibungen 
 gibt es hier unter
 http://webevangelisten.de/hashtags
 
