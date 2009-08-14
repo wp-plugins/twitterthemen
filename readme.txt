@@ -1,11 +1,11 @@
 === Twitterthemen ===
 Contributors: Thomas Pfeiffer
+Plugin link: http://webevangelisten.de/twitterthemen-wordpress-plugin/
 Tags: twitter, widget, twitterthemen
 Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: 0.1
 
-Zeigt aktuelle Twitterthemen an.
 
 == Description ==
 **English**
