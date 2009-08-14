@@ -1,6 +1,6 @@
 === Twitterthemen ===
 Contributors: Thomas Pfeiffer
-Plugin URI : http://webevangelisten.de/twitterthemen-wordpress-plugin/
+Plugin URI: http://webevangelisten.de/twitterthemen-wordpress-plugin/
 Tags: twitter, widget, twitterthemen
 Requires at least: 2.8
 Tested up to: 2.8.4
