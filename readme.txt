@@ -6,6 +6,8 @@ Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: 0.1
 
+The plugin provides a sidebar widget, that displays the 
+latest trending topics of the **german-speaking** twitterspehre.
 
 == Description ==
 **English**
